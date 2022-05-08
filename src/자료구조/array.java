@@ -10,6 +10,5 @@ public class array {
             System.out.println(arrayobj[i]);
         }
 
-
     }
 }
